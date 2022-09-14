@@ -1,0 +1,16 @@
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\bin\Debug\karacsanyidiszekWPF.exe.config
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\bin\Debug\karacsanyidiszekWPF.exe
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\bin\Debug\karacsanyidiszekWPF.pdb
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\karacsanyidiszekWPF.csproj.AssemblyReference.cache
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\karacsanyidiszekWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\MainWindow.g.cs
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\App.g.cs
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\karacsanyidiszekWPF_MarkupCompile.cache
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\karacsanyidiszekWPF_MarkupCompile.lref
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\MainWindow.baml
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\karacsanyidiszekWPF.g.resources
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\karacsanyidiszekWPF.Properties.Resources.resources
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\karacsanyidiszekWPF.csproj.GenerateResource.cache
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\karacsanyidiszekWPF.csproj.CoreCompileInputs.cache
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\karacsanyidiszekWPF.exe
+C:\Users\kissg\Desktop\KGZS\Asztali alkalmazások\karacsanyidiszekWPF\karacsanyidiszekWPF\obj\Debug\karacsanyidiszekWPF.pdb
